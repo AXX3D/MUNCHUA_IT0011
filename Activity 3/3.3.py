@@ -1,13 +1,13 @@
-last_name = input("Enter Last Name: ")
-first_name = input("Enter First Name: ")
+namel = input("Enter Last Name: ")
+namef = input("Enter First Name: ")
 age = input("Enter Age: ")
-contact_number = input("Enter Contact Number: ")
+contact = input("Enter Contact Number: ")
 course = input("Enter Course: ")
 
-formatted = (f"Last Name: {last_name}\n"
-                   f"First Name: {first_name}\n"
+formatted = (f"Last Name: {namel}\n"
+                   f"First Name: {namef}\n"
                    f"Age: {age}\n"
-                   f"Contact Number: {contact_number}\n"
+                   f"Contact Number: {contact}\n"
                    f"Course: {course}\n\n")
 
 with open("students.txt", "a") as file:
