@@ -1,6 +1,2 @@
-Last Name: Mustdie
-First Name: Dante
-Age: 25
-Contact Number: 09693138691
-Course: DHUNTER
-
+202012,('Altair', 'Mutar'),91.0,95.0
+202031,('Sova', 'Drone'),89.0,80.0
